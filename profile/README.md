@@ -8,7 +8,7 @@ How to get started:
 - Check the sample app
 - Read the [docs](https://eventuous.dev)
 
-Don't hesitate to sponsor our work!
+Don't hesitate to [sponsor](https://github.com/sponsors/Eventuous) our work!
 
 <!--
 

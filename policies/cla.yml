@@ -1,0 +1,14 @@
+name: Contributor License Agreement Policy
+description: CLA policy file
+
+resource: repository
+configuration:
+  cla:
+    content: https://raw.githubusercontent.com/eventuous/.github/main/CLA/eventuous.yml
+    minimalChangeRequired:
+      files: 1
+      codeLines: 1
+    bypassUsers:
+      - dependabot[bot]
+      - dependabot-preview[bot]
+      - github-actions[bot]
